@@ -1,0 +1,10 @@
+bin/*.exe
+bin/*.ilk
+bin/*.pdb
+bin/*.dll
+x64
+.DS_Store
+*.sdf
+*.mp4
+*.mov
+node_modules
